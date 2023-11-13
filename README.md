@@ -1,15 +1,22 @@
-## Hi 👋 I'm **Daniel Gu**, a.k.a. *endaytrer*
+## Hi 👋 I'm **Daniel Gu**
 
-Welcome to my website [www.endaytrer.com](https://www.endaytrer.com)!
+Welcome to my website [danielgu.org](https://danielgu.org)!
 
 I'm a student of:
 
 - Xi'an Jiaotong University (current)
 - University of Wisconsin-Madison, Visiting Student 2022
 
+#### Research Interests:
+
+Computer Systems, especially:
+
+- **Networked Systems** (currently focusing)
+- **Operating Systems**
+
 #### Know about my experiences:
 
-[Resume](https://www.endaytrer.com/resume.pdf)
+[Resume](https://danielgu.org/resume.pdf)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=endaytrer&label=Profile%20views&color=0e75b6&style=flat" alt="endaytrer" height="20px" /> <a href="https://twitter.com/endaytrer" target="blank"><img src="https://img.shields.io/twitter/follow/endaytrer?logo=twitter&style=for-the-badge" alt="endaytrer" height="20px"/></a> </p>
 
@@ -42,26 +49,24 @@ I'm a student of:
 
 <h4 align="center">Languages and Tools</h4>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.vim.org/" target="_black" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</p>
+
+
 
 I'm a student who...
 
 - Loves every perspective of coding & computer science
-- Is constantly seeking for projects in **computer systems**
-- Is looking for internships / research opportunities
+- Loves **computer graphics** and **web technology** beyond my research
+- Loves tennis, cycling, badminton, photography, graphics designing...(but I can do neither of them well)
 - Is racking his brain to come up some ideas to fill this list
 - Does not enjoy filling READMEs with emojis
 
