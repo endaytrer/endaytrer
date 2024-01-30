@@ -16,7 +16,7 @@ Computer Systems, especially:
 
 #### Know about my experiences:
 
-[Resume](https://danielgu.org/resume.pdf)
+[Resume](https://www.danielgu.org/resume/)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=endaytrer&label=Profile%20views&color=0e75b6&style=flat" alt="endaytrer" height="20px" /> <a href="https://twitter.com/endaytrer" target="blank"><img src="https://img.shields.io/twitter/follow/endaytrer?logo=twitter&style=for-the-badge" alt="endaytrer" height="20px"/></a> </p>
 
