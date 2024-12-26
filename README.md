@@ -75,8 +75,7 @@ I'm a student who...
 #### Connect with me:
 
 **Email me at:**
-- **Formal**: [endaytrer0120@stu.xjtu.edu.cn](mailto:endaytrer0120@stu.xjtu.edu.cn)
-- **Formal**: [zgu98@wisc.edu](mailto:zgu98@wisc.edu)
+- **Formal**: [zrgu@stu.xjtu.edu.cn](mailto:zrgu@stu.xjtu.edu.cn)
 - **Commonly Used**: [endaytrer@gmail.com](mailto:endaytrer@gmail.com)
 
 **Social Medias:**
